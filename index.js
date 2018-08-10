@@ -5,3 +5,5 @@ exports.printMsg = function() {
 exports.printMsg = function() {
   console.log("Message 2 from demo package");
 }
+
+// test
