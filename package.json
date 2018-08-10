@@ -1,0 +1,22 @@
+{
+  "name": "zeus.js",
+  "version": "1.0.0",
+  "description": "Random stuff for me to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "test": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeusJunior/zeus.js.git"
+  },
+  "author": "ZeusJunior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeusJunior/zeus.js/issues"
+  },
+  "homepage": "https://github.com/ZeusJunior/zeus.js#readme"
+}
