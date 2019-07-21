@@ -1,5 +1,5 @@
 # zeus.js
-Random stuff for me to use
+Yeah no i would not recommend using this, there are better options and this is old. Might come back to it but eh.
 
 # Methods
 `[]` is optional
